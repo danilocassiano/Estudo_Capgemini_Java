@@ -5,21 +5,21 @@ public class Heranca {
 		// TODO Auto-generated method stub
 
 			Fisica fis = new Fisica();
-			fis.nome = "JOÂO";
+			fis.nome = "DANILO";
 			fis.cpf  = "11111111";
 			fis.identidade = "1560455";
 			fis.situacaoPessoa = "A";
 			
 			Juridica jur = new Juridica();
-			jur.nome = "CASAS DO SILVA";
+			jur.nome = "CASAS DO BARROS";
 			jur.cnpj = "454577566";
 			jur.inscEstadual = "45545454";
 			jur.situacaoPessoa = "I";
 			
-			System.out.println("Dados da Pessoa Física");
+			System.out.println("Dados da Pessoa FÃ­sica");
 			System.out.println(fis.toString());
 			
-			System.out.println("Dados da Pessoa Jurídica");
+			System.out.println("Dados da Pessoa JurÃ­dica");
 			System.out.println(jur.toString());
 	}
 
