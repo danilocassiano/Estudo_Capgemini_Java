@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Capgemini.iml" filepath="$PROJECT_DIR$/.idea/Capgemini.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClasseConceito/ClasseConceito.iml" filepath="$PROJECT_DIR$/ClasseConceito/ClasseConceito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComandosCondicionais/ComandosCondicionais.iml" filepath="$PROJECT_DIR$/ComandosCondicionais/ComandosCondicionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EntradaDeDados/EntradaDeDados.iml" filepath="$PROJECT_DIR$/EntradaDeDados/EntradaDeDados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/Heranca.iml" filepath="$PROJECT_DIR$/Heranca/Heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LacosRepeticao/LacosRepeticao.iml" filepath="$PROJECT_DIR$/LacosRepeticao/LacosRepeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Literais/Literais.iml" filepath="$PROJECT_DIR$/Literais/Literais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MeuPrimeiroProg/MeuPrimeiroProg.iml" filepath="$PROJECT_DIR$/MeuPrimeiroProg/MeuPrimeiroProg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperadoresAritmeticos/OperadoresAritmeticos.iml" filepath="$PROJECT_DIR$/OperadoresAritmeticos/OperadoresAritmeticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperadoresRelacLogicos/OperadoresRelacLogicos.iml" filepath="$PROJECT_DIR$/OperadoresRelacLogicos/OperadoresRelacLogicos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" filepath="$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TiposDeDados/TiposDeDados.iml" filepath="$PROJECT_DIR$/TiposDeDados/TiposDeDados.iml" />
+    </modules>
+  </component>
+</project>
