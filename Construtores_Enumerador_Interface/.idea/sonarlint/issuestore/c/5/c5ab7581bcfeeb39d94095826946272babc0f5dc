@@ -1,0 +1,6 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŞŞ¤8°öªº1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ğğÒèúÿÿÿÿ8Ëöªº1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¾œ·8Íöªº1
+Z
+java:S1128"=Remove this unused import 'Construtores.Alunos2.STATUSALUNO'.(¸Á­ã8ì¹«º1
